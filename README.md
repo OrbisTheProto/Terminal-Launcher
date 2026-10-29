@@ -1,6 +1,6 @@
 # Terminal Launcher Dev Branch
 ### Last Updated Oct 29, 2026
-# Created by OrbisTheProto
+### Created by OrbisTheProto
 Uses the Universal Menu Selector library made by blue-Samarth on Github (https://github.com/blue-samarth/Terminal-Menu-Selector)
 
 I honestly dont care if this is simple, as this is how i'm learning Bash scripting
