@@ -1,6 +1,5 @@
-# Terminal Launcher Dev Branch
+# Terminal Launcher 0.4.0
 Created by OrbisTheProto
-Last Updated Oct 29, 2026
 
 Uses the Universal Menu Selector library made by blue-Samarth on Github (https://github.com/blue-samarth/Terminal-Menu-Selector)
 
