@@ -46,10 +46,6 @@ Anything in the "Scripts" section is technically optional if you don't select th
 *I can assure that any official mods will be relatively secure
 
 # PLANS:
-## 0.4 - Licensing and Github Release
-- 0.4.0 - Move AI scripts to the Mods menu
-- 0.4.1 - License the project appropriately under the GPL v3.0
-- 0.4.2 - Set up a Github page for this project
 ## 0.5 - Config Update
 - 0.5.0 - Add installation config (toggleable snap, flatpak, etc.)
 - 0.5.1 - Add a menu to configure options via text field/toggle
