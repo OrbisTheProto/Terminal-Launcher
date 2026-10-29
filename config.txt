@@ -1,4 +1,0 @@
-# This is the config file. For help, refer to the README
-dist=arch
-distro1=CachyOS
-setup=1
