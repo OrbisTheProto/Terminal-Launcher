@@ -1,9 +1,10 @@
 # Terminal Launcher Dev Branch
-### Last Updated Oct 29, 2026
-### Created by OrbisTheProto
+Created by OrbisTheProto
+Last Updated Oct 29, 2026
+
 Uses the Universal Menu Selector library made by blue-Samarth on Github (https://github.com/blue-samarth/Terminal-Menu-Selector)
 
-I honestly dont care if this is simple, as this is how i'm learning Bash scripting
+I honestly don't care if this is simple, as this is how I'm learning Bash scripting
 
 # Dependencies
 ## Core Dependencies:
@@ -18,17 +19,17 @@ I honestly dont care if this is simple, as this is how i'm learning Bash scripti
 ## Optional Dependencies:
 - snap (to install packages via snap)
 - flatpak (to install packages via flatpak)
-- linux or MacOS (WSL sucks to run this on, and Im not porting this to powershell) (MacOS is untested)
+- Linux or MacOS (WSL sucks to run this on, and I'm not porting this to powershell) (MacOS is untested)
 
 Anything in the "Scripts" section is technically optional if you don't select that option, but I would recommend it.
 
-# How-To's
-# Download Guide
-1. Download the .zip file
+# How-To
+## Download Guide
+1. Clone the project via `git clone https://github.com/OrbisTheProto/Terminal-Launcher/`
 2. extract to any directory
 3. Make sure that everything is executable
 4. Open your terminal in the folder
-5. Run ./tl.sh
+5. Run `./tl.sh`
 
 ## How to Develop Mods:
 1. Make a Directory inside the Mods Folder
