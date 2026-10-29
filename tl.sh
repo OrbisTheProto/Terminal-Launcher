@@ -10,7 +10,7 @@ source ./menu_selector.sh
 clear
 
 PS1=$(pwd)
-version="0.4.0-Dev-20261029"
+version="0.4.0"
 result=""
 result2=""
 result3=""
@@ -437,16 +437,14 @@ I honestly dont care if this is simple, as this is how i'm learning Bash scripti
 This project is licensed under the GNU GPL v3. For more information, select the 'License' option in the Info menu.
 
 RECENT UPDATES:
-Dev 0.4.0-20261029
-- Removed AI scripts, made them official mods
-- Added the GPL notice to the README
-- Set up the Github page for this project
-
-Dev 0.4.0-20261028:
+0.4.0
 - Bumped Dev version up to 0.4.0
 - Licensed Project under the GPL
 - Added AI disclosure
 - Added proper GPL stuff
+- Removed AI scripts, made them official mods
+- Added the GPL notice to the README
+- Set up the Github page for this project 
 
 Press ENTER to continue.
 "
